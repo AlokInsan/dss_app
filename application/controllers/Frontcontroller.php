@@ -27,6 +27,10 @@ class Frontcontroller extends CI_Controller
 		 $this->load->view('front/include/footer');
 		
 	 }
+	 function error_404()
+	 {
+	 	
+	 }
 	 public function dsshistory()
 	 {
 

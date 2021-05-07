@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\derasachasauda\derasachasauda.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/xampp/htdocs/derasachasauda]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/xampp/htdocs/derasachasauda]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\derasachasauda\application\views\front\home.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.3">
+  <errfile name="C:\xampp\htdocs\derasachasauda\application\views\front\home.php">
+   <error val="51;129;69;129;2002;1;"/>
+   <error val="372;498;454;498;2002;1;"/>
+   <error val="349;498;372;498;2002;1;"/>
+  </errfile>
+ </errors>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock>
+  <todofile name="C:\xampp\htdocs\derasachasauda\system\database\DB_query_builder.php">
+   <todo pos="5;2003" name="todo error"/>
+   <todo pos="4;2003" name="@todo error"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\derasachasauda\system\helpers\string_helper.php">
+   <todo pos="19;229" name="todo: remove in 3.1+"/>
+   <todo pos="20;232" name="todo: remove in 3.1+"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\derasachasauda\system\libraries\Xmlrpc.php">
+   <todo pos="7;1574" name="todo - this needs to be made more general purpose"/>
+   <todo pos="6;1574" name="@todo - this needs to be made more general purpose"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\derasachasauda\user_guide\_static\jquery-3.1.0.js">
+   <todo pos="8;797" name="TODO: identify versions"/>
+   <todo pos="7;811" name="TODO: identify versions"/>
+   <todo pos="48;4120" name="TODO: Drop _data, _removeData)"/>
+   <todo pos="2;4170" name="TODO: Now that all calls to _data and _removeData have been replaced"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <filescache>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\tutorial\static_pages.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\tutorial\news_section.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\tutorial\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\tutorial\create_news_items.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\tutorial\conclusion.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\overview\mvc.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\overview\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\overview\goals.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\overview\getting_started.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\overview\features.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\overview\at_a_glance.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\overview\appflow.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\zip.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\xmlrpc.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\user_agent.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\uri.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\unit_testing.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\typography.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\trackback.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\table.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\sessions.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\security.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\parser.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\pagination.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\output.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\migration.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\loader.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\language.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\javascript.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\input.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\image_lib.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\ftp.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\form_validation.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\file_uploading.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\encryption.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\encrypt.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\email.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\config.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\cart.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\calendar.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\caching.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\libraries\benchmark.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrading.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_b11.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_319.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_318.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_317.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_316.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_315.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_314.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_313.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_312.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_3111.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_3110.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_311.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_310.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_306.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_305.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_304.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_303.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_302.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_301.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_300.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_223.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_222.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_221.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_220.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_214.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_213.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_212.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_211.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_210.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_203.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_202.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_201.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_200.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_172.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_171.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_170.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_163.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_162.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_161.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_160.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_154.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_153.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_152.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_150.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_141.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_140.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_133.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_132.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_131.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_130.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\upgrade_120.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\troubleshooting.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\installation\downloads.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\xml_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\url_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\typography_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\text_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\string_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\smiley_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\security_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\path_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\number_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\language_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\inflector_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\html_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\form_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\file_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\email_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\download_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\directory_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\date_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\cookie_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\captcha_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\helpers\array_helper.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\welcome.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\views.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\urls.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\styleguide.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\security.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\routing.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\reserved_names.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\requirements.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\profiling.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\models.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\managing_apps.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\libraries.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\hooks.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\helpers.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\errors.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\environments.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\drivers.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\credits.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\creating_libraries.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\creating_drivers.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\core_classes.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\controllers.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\compatibility_functions.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\common_functions.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\cli.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\caching.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\autoloader.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\ancillary_classes.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\general\alternative_php.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\documentation\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\utilities.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\transactions.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\results.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\query_builder.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\queries.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\metadata.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\helpers.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\forge.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\examples.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\db_driver_reference.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\connecting.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\configuration.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\call_function.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\database\caching.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\contributing\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\js\theme.js"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\js\oldtheme.js"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\css\theme.css"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\css\citheme.css"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\css\badge_only.css"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\websupport.js"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\underscore.js"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\underscore-1.3.1.js"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\searchtools.js"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\pygments.css"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\jquery.js"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\jquery-3.1.0.js"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\doctools.js"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\_static\basic.css"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\searchindex.js"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\search.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\license.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\genindex.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\DCO.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\user_guide\changelog.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Session\drivers\Session_redis_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Session\drivers\Session_memcached_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Session\drivers\Session_files_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Session\drivers\Session_database_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Session\drivers\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Session\SessionHandlerInterface.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Session\Session_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Session\Session.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Session\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Javascript\Jquery.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Javascript\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Cache\drivers\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Cache\drivers\Cache_wincache.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Cache\drivers\Cache_redis.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Cache\drivers\Cache_memcached.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Cache\drivers\Cache_file.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Cache\drivers\Cache_dummy.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Cache\drivers\Cache_apc.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Cache\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Cache\Cache.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Zip.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Xmlrpcs.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Xmlrpc.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\User_agent.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Upload.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Unit_test.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Typography.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Trackback.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Table.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Profiler.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Parser.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Pagination.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Migration.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Javascript.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Image_lib.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Ftp.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Form_validation.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Encryption.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Encrypt.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Email.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Cart.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\libraries\Calendar.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\upload_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\unit_test_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\profiler_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\pagination_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\number_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\migration_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\imglib_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\ftp_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\form_validation_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\email_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\db_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\date_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\english\calendar_lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\language\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\xml_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\url_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\typography_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\text_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\string_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\smiley_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\security_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\path_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\number_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\language_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\inflector_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\html_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\form_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\file_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\email_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\download_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\directory_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\date_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\cookie_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\captcha_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\helpers\array_helper.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\fonts\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlsrv\sqlsrv_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlsrv\sqlsrv_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlsrv\sqlsrv_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlsrv\sqlsrv_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlsrv\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlite3\sqlite3_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlite3\sqlite3_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlite3\sqlite3_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlite3\sqlite3_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlite3\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlite\sqlite_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlite\sqlite_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlite\sqlite_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlite\sqlite_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\sqlite\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\postgre\postgre_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\postgre\postgre_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\postgre\postgre_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\postgre\postgre_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\postgre\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_sqlsrv_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_sqlsrv_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_sqlite_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_sqlite_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_pgsql_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_pgsql_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_odbc_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_odbc_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_oci_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_oci_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_mysql_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_mysql_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_informix_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_informix_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_ibm_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_ibm_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_firebird_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_firebird_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_dblib_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_dblib_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_cubrid_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_cubrid_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_4d_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\pdo_4d_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\subdrivers\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\pdo_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\pdo_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\pdo_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\pdo_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\pdo\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\odbc\odbc_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\odbc\odbc_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\odbc\odbc_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\odbc\odbc_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\odbc\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\oci8\oci8_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\oci8\oci8_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\oci8\oci8_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\oci8\oci8_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\oci8\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mysqli\mysqli_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mysqli\mysqli_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mysqli\mysqli_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mysqli\mysqli_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mysqli\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mysql\mysql_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mysql\mysql_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mysql\mysql_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mysql\mysql_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mysql\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mssql\mssql_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mssql\mssql_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mssql\mssql_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mssql\mssql_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\mssql\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\ibase\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\ibase\ibase_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\ibase\ibase_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\ibase\ibase_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\ibase\ibase_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\cubrid\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\cubrid\cubrid_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\cubrid\cubrid_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\cubrid\cubrid_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\cubrid\cubrid_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\drivers\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\DB_utility.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\DB_result.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\DB_query_builder.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\DB_forge.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\DB_driver.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\DB_cache.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\database\DB.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\compat\standard.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\compat\password.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\compat\mbstring.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\compat\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\compat\hash.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Utf8.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\URI.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Security.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Router.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Output.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Model.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Log.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Loader.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Lang.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Input.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Hooks.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Exceptions.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Controller.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Config.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Common.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\CodeIgniter.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\core\Benchmark.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\system\.htaccess"/>
+  <file crc="1567085842000" name="C:\xampp\htdocs\derasachasauda\assets\js\wow.js"/>
+  <file crc="1598855772000" name="C:\xampp\htdocs\derasachasauda\assets\js\theme.js"/>
+  <file crc="1592749514000" name="C:\xampp\htdocs\derasachasauda\assets\js\swiper.min.js"/>
+  <file crc="1390797374000" name="C:\xampp\htdocs\derasachasauda\assets\js\odometer.min.js"/>
+  <file crc="1435705258000" name="C:\xampp\htdocs\derasachasauda\assets\js\jquery.validate.min.js"/>
+  <file crc="1571829422000" name="C:\xampp\htdocs\derasachasauda\assets\js\jquery.magnific-popup.min.js"/>
+  <file crc="1598845760000" name="C:\xampp\htdocs\derasachasauda\assets\js\jquery.appear.min.js"/>
+  <file crc="1573390808000" name="C:\xampp\htdocs\derasachasauda\assets\js\jquery.ajaxchimp.min.js"/>
+  <file crc="1592751112000" name="C:\xampp\htdocs\derasachasauda\assets\js\jquery-3.5.1.min.js"/>
+  <file crc="1592750888000" name="C:\xampp\htdocs\derasachasauda\assets\js\bootstrap.bundle.min.js"/>
+  <file crc="1575308286000" name="C:\xampp\htdocs\derasachasauda\assets\js\bootstrap-select.min.js"/>
+  <file crc="1619498597218" name="C:\xampp\htdocs\derasachasauda\assets\images\168331.html"/>
+  <file crc="1592749478000" name="C:\xampp\htdocs\derasachasauda\assets\css\swiper.min.css"/>
+  <file crc="1598846048000" name="C:\xampp\htdocs\derasachasauda\assets\css\odometer.min.css"/>
+  <file crc="1612071768000" name="C:\xampp\htdocs\derasachasauda\assets\css\main.css"/>
+  <file crc="1571829392000" name="C:\xampp\htdocs\derasachasauda\assets\css\magnific-popup.css"/>
+  <file crc="1581987238000" name="C:\xampp\htdocs\derasachasauda\assets\css\fontawesome-all.min.css"/>
+  <file crc="1592750842000" name="C:\xampp\htdocs\derasachasauda\assets\css\bootstrap.min.css"/>
+  <file crc="1575308214000" name="C:\xampp\htdocs\derasachasauda\assets\css\bootstrap-select.min.css"/>
+  <file crc="1598793578000" name="C:\xampp\htdocs\derasachasauda\assets\css\azino-icons.css"/>
+  <file crc="1571313384000" name="C:\xampp\htdocs\derasachasauda\assets\css\animate.min.css"/>
+  <file crc="1618380027005" name="C:\xampp\htdocs\derasachasauda\application\views\front\include\menu.php"/>
+  <file crc="1618380136558" name="C:\xampp\htdocs\derasachasauda\application\views\front\include\js.php"/>
+  <file crc="1619762080265" name="C:\xampp\htdocs\derasachasauda\application\views\front\include\header.php"/>
+  <file crc="1619677932047" name="C:\xampp\htdocs\derasachasauda\application\views\front\include\footer.php"/>
+  <file crc="1619759644152" name="C:\xampp\htdocs\derasachasauda\application\views\front\vegetarianism.php"/>
+  <file crc="1619425135303" name="C:\xampp\htdocs\derasachasauda\application\views\front\spiritualmasters3.php"/>
+  <file crc="1619423834830" name="C:\xampp\htdocs\derasachasauda\application\views\front\spiritualmasters2.php"/>
+  <file crc="1619418629580" name="C:\xampp\htdocs\derasachasauda\application\views\front\spiritualmasters1.php"/>
+  <file crc="1619675982011" name="C:\xampp\htdocs\derasachasauda\application\views\front\principles.php"/>
+  <file crc="1619677963066" name="C:\xampp\htdocs\derasachasauda\application\views\front\meditation.php"/>
+  <file crc="1619676924597" name="C:\xampp\htdocs\derasachasauda\application\views\front\jaameinsan.php"/>
+  <file crc="1619770332796" name="C:\xampp\htdocs\derasachasauda\application\views\front\home.php"/>
+  <file crc="1618398302095" name="C:\xampp\htdocs\derasachasauda\application\views\front\history.php"/>
+  <file crc="1619761067247" name="C:\xampp\htdocs\derasachasauda\application\views\front\de_addiction.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\html\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\html\error_php.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\html\error_general.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\html\error_exception.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\html\error_db.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\html\error_404.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\cli\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\cli\error_php.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\cli\error_general.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\cli\error_exception.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\cli\error_db.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\cli\error_404.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\errors\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\welcome_message.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\views\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\third_party\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\models\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\logs\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\libraries\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\language\english\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\language\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\hooks\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\helpers\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\core\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\controllers\Welcome.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\controllers\index.html"/>
+  <file crc="1619763071228" name="C:\xampp\htdocs\derasachasauda\application\controllers\Frontcontroller.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\config\user_agents.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\config\smileys.php"/>
+  <file crc="1619763014507" name="C:\xampp\htdocs\derasachasauda\application\config\routes.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\config\profiler.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\config\mimes.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\config\migration.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\config\memcached.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\config\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\config\hooks.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\config\foreign_chars.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\config\doctypes.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\config\database.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\config\constants.php"/>
+  <file crc="1618208749244" name="C:\xampp\htdocs\derasachasauda\application\config\config.php"/>
+  <file crc="1618209073733" name="C:\xampp\htdocs\derasachasauda\application\config\autoload.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\cache\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\index.html"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\application\.htaccess"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\license.txt"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\index.php"/>
+  <file crc="1568849924000" name="C:\xampp\htdocs\derasachasauda\composer.json"/>
+  <file crc="1583993576000" name="C:\xampp\htdocs\derasachasauda\.htaccess"/>
+ </filescache>
+</project>
